@@ -10,7 +10,13 @@
     {
       "name": "find-missile",
       "title": "find missile",
-      "description": "",
+      "description": "Find missile designations",
+      "mode": "view"
+    },
+    {
+      "name": "find-aircraft",
+      "title": "find aircraft",
+      "description": "Find aircraft designations",
       "mode": "view"
     }
   ],
