@@ -18,6 +18,12 @@
       "title": "find aircraft",
       "description": "Find aircraft designations",
       "mode": "view"
+    },
+    {
+      "name": "find-ship",
+      "title": "find ship",
+      "description": "Find ship designations",
+      "mode": "view"
     }
   ],
   "dependencies": {
